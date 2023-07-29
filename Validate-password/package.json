@@ -1,0 +1,14 @@
+{
+  "name": "no-clue",
+  "version": "1.0.0",
+  "description": "Learning to use node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "kuchbhi"
+  },
+  "keywords": [
+    "key"
+  ],
+  "author": "rehan",
+  "license": "ISC"
+}
